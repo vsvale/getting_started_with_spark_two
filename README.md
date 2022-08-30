@@ -6,7 +6,7 @@ The 2.x releases of Spark represent significantly different and upgraded feature
 ## Author
 Janani Ravi
 
-## Learning Plataform
+## Learning Platform
 [Pluralsight](https://www.pluralsight.com/)
 
 ## Description
